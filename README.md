@@ -1,3 +1,4 @@
 # PROJECT-START
-This is my first project 
-Author -Shouki
+This is my first project.
+<br>
+Author - Shouki
